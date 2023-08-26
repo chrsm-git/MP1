@@ -1,0 +1,11 @@
+body{
+    background-image: url(pics/MP1001.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: auto;
+}
+
+.icon{
+    color: #54B0F9;
+}
